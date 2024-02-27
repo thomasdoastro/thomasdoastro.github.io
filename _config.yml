@@ -1,4 +1,5 @@
 name: My Site
+title: Hello
 description: Hi
 theme: jekyll-theme-slate
 # remote_theme: pages-themes/slate@v0.2.0
