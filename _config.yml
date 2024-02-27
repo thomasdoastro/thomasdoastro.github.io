@@ -1,8 +1,4 @@
-name: My Site
-title: Hello
-description: Hi
+title: Welcome to my profile
+description: Thomas Minh Do, Astronomy Ph.D student at Michigan State University
 theme: jekyll-theme-slate
-# remote_theme: pages-themes/slate@v0.2.0
 show_downloads: false
-
-# plugins: - jekyll-remote-theme
